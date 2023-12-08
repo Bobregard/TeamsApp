@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamsApp.Presentation", "TeamsApp\TeamsApp.Presentation.csproj", "{0D05DD26-8DBC-4995-8318-DCB67EA7F20E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamsApp.Data", "TeamsApp.Data\TeamsApp.Data.csproj", "{B7F72358-597C-4B65-A5DF-91CDFC5CF50F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamsApp.Services", "TeamsApp.Services\TeamsApp.Services.csproj", "{65A9A386-CBE7-4E32-9F65-7887B74E6F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamsApp.Tests", "TeamsApp.Tests\TeamsApp.Tests.csproj", "{A9C629A5-0867-4DDB-8387-2D3B63B7F68C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D05DD26-8DBC-4995-8318-DCB67EA7F20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D05DD26-8DBC-4995-8318-DCB67EA7F20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D05DD26-8DBC-4995-8318-DCB67EA7F20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D05DD26-8DBC-4995-8318-DCB67EA7F20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F72358-597C-4B65-A5DF-91CDFC5CF50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F72358-597C-4B65-A5DF-91CDFC5CF50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F72358-597C-4B65-A5DF-91CDFC5CF50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F72358-597C-4B65-A5DF-91CDFC5CF50F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A9A386-CBE7-4E32-9F65-7887B74E6F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A9A386-CBE7-4E32-9F65-7887B74E6F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A9A386-CBE7-4E32-9F65-7887B74E6F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A9A386-CBE7-4E32-9F65-7887B74E6F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C629A5-0867-4DDB-8387-2D3B63B7F68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C629A5-0867-4DDB-8387-2D3B63B7F68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C629A5-0867-4DDB-8387-2D3B63B7F68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C629A5-0867-4DDB-8387-2D3B63B7F68C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC4BEA88-DCF5-4EF2-874F-D8D4B61BD951}
+	EndGlobalSection
+EndGlobal
